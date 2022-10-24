@@ -1,0 +1,22 @@
+.box1 {
+    background-color: #ff0000;
+    height: 200px;
+    width: 200px;
+    float: left;
+    /* display: none; */
+}
+/* .box1-ext {
+    border: 10px solid black;
+} */
+.bg1 {
+    background-color: #ffaaaa;
+}
+.bg2 {
+    background-color: #ffbbbb;
+}
+.bg3 {
+    background-color: #ffcccc;
+}
+.bg4 {
+    background-color: #fddddd;
+}
